@@ -1,5 +1,6 @@
 # paiko-clone-project
-this is my fir Git repositor 
+this is my first Git repositor 
 <br>
 author- steben roy
+<hr>
 
