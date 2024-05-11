@@ -1,6 +1,7 @@
 # paiko-clone-project
-this is my first Git repositor 
-<br>
-author- steben roy
-<hr>
 
+this is my first Git repositor
+<br>
+author- steben roy (sexy)
+
+<hr>
